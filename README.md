@@ -2,7 +2,7 @@
 **By Anna St. Clair and Alayna Smith**
 
 ## Overview
-This project investigates whether GPT-4o's response quality varies across typologically distinct languages. The same multiple-choice questions are posed in six languages representing different grammatical word orders (SVO, SOV, VSO), and accuracy is compared across them.
+This project investigates whether GPT-4o's response quality varies across typologically distinct languages. The same multiple-choice questions are posed in seven languages representing different grammatical word orders (SVO, SOV, VSO), and accuracy is compared across them.
 
 ## Languages Tested
 | Language | Word Order |
